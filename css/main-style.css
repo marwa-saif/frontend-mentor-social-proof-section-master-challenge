@@ -277,7 +277,7 @@ html {
 
 .attribution {
     text-align: center;
-    margin: -30px 0 0;
+    margin: -40px 0 0;
     color: var(--cyan-color-800);
 }
 
@@ -293,4 +293,5 @@ html {
     font-style: italic;
     font-weight: 700;
     text-decoration: none;
+
 }
